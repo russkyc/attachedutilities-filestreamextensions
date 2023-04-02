@@ -13,6 +13,7 @@
         <Copyright>Russell Camo 2022</Copyright>
         <PackageTags>Filestream FileStream File Stream Helper Extension Methods Attached Methods</PackageTags>
         <AssemblyName>Russkyc.AttachedUtilities.FilestreamExtensions</AssemblyName>
+        <RepositoryUrl>https://github.com/russkyc/attachedutilities-filestreamextensions</RepositoryUrl>
     </PropertyGroup>
     <PropertyGroup>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
