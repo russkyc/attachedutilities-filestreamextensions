@@ -1,5 +1,8 @@
-﻿## Russkyc.AttachedUtilities.FileStreamExtensions
+﻿<h2 align="center">Russkyc.AttachedUtilities.FileStreamExtensions</h2>
+
+<p align="center">
 FileStream attached method utilities for .NET Standard, .NET Core, and .NET Framework.
+</p>
 
 ### Setup
 ```csharp
