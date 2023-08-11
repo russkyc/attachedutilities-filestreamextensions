@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<a>Russkyc.AttachedUtilities.FileStreamExtensions</a> is a collection of filestream attached method utilities for .NET Standard, .NET Core, and .NET Framework.
+<a href="https://www.nuget.org/packages/Russkyc.AttachedUtilities.FilestreamExtensions">Russkyc.AttachedUtilities.FileStreamExtensions</a> is a collection of filestream attached method utilities for .NET Standard, .NET Core, and .NET Framework.
 </p>
 
 ### Setup
